@@ -46,7 +46,7 @@ function caloriasDeEmpanadas(quantidadeDeEmpanadas){
 E assim conseguimos fazer a nossa função, que ao passar a quantidade de empanadas, imprime na tela a quantidade de calorias totais.
  
  
-> Sabendo disso, eu escrevi uma função `somarMoedasDe25(quantidadeDeMoedas)`, que toma como parâmetro um valor numérico e retorna a soma das moedas de 25 centavos.
+> Sabendo disso, escreva uma função `somarMoedasDe25(quantidadeDeMoedas)`, que toma como parâmetro um valor numérico e retorna a soma das moedas de 25 centavos.
 Por exemplo:  
 >  
 > ```javascript
