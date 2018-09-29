@@ -49,7 +49,8 @@ Dentro do `for` está o código que queremos que seja executado em CADA ITERAÇ�
 Consequentemente, a primeira vez que o `for` é executado
  
 ```javascript
-   var totalCalorias = totalCalorias + 300; //totalCalorias podería terminar valendo 300
+   var totalCalorias = totalCalorias + 300;
+   //totalCalorias podería terminar valendo 300
 }
 ```
  
