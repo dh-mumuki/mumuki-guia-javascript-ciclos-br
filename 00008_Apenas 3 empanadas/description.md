@@ -35,7 +35,8 @@ Isso ocorre porque a variável "totalCalorias" é declarada dentro do `for` e is
  
 ```javascript
 for(var i = 0; i < 3; i++) {
-   var totalCalorias = totalCalorias + 300; //a variavel totalCalorias está declarada dentro do for e só pode ser usada lá dentro
+   var totalCalorias = totalCalorias + 300; 
+   //a variavel totalCalorias está declarada dentro do for e só pode ser usada lá dentro
 }
  
 console.log(totalCalorias) //a variavel totalCalorias aqui já não existe e não pode ser consultada
