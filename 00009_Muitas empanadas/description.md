@@ -15,7 +15,7 @@ for(var i = 0; i < 3; i++) {
 console.log(totalCalorias)
 ```
  
-Para conseguir isso, o que temos que modificar é algo semelhante ao Exercício 2 de Variáveis ​​Repetidas.
+Para conseguir isso, o que temos que modificar é algo semelhante ao Exercício 2 de Variáveis Repetidas.
  
 Primeiro temos que tirar o número 3 e torná-lo variável, por exemplo, "x" ou "quantidadeDeEmpanadas"
  
@@ -29,7 +29,7 @@ for(var i = 0; i < quantidadeDeEmpanadas; i++) {
  
 console.log(totalCalorias)
 ```
-Depois de fazer essa modificação, a variável quantidadeDeEmpanadas poderia ser um argumento de uma função.
+Depois de fazer essa modificação, a variável quantidadeDeEmpanadas poderia ser um parâmetro de uma função.
  
 ```javascript
 function caloriasDeEmpanadas(quantidadeDeEmpanadas){
