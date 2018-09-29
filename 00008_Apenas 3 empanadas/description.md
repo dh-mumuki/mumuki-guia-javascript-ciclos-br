@@ -39,7 +39,8 @@ for(var i = 0; i < 3; i++) {
    //a variavel totalCalorias está declarada dentro do for e só pode ser usada lá dentro
 }
  
-console.log(totalCalorias) //a variavel totalCalorias aqui já não existe e não pode ser consultada
+console.log(totalCalorias) 
+//a variavel totalCalorias aqui já não existe e não pode ser consultada
 ```
  
 * A variável é inicializada cada vez que se executa uma iteração do for
