@@ -80,7 +80,7 @@ console.log(totalCalorias)
 //a variável totalCalorias já existe e retorna o valor total que estávamos procurando.
 ```
  
-> Sabendo disso, escreva uma função `somar5MoedasDe25 Centavos`, que adiciona o valor de 5 moedas de 0,25 centavos e retorna o resultado.
+> Sabendo disso, escreva uma função `somar5MoedasDe25Centavos`, que adiciona o valor de 5 moedas de 0,25 centavos e retorna o resultado.
  
 Por exemplo:  
 >  
