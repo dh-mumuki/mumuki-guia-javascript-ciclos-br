@@ -1,3 +1,3 @@
-Vamos fazer um exercício semelhante ao anterior para esclarecer alguma dúvida.
+Hagamos un ejercicio similar al anterior para despejar alguna que otra duda.
 
-> Execute uma função chamada **passandoPor** que imprime no console **"aqui i tem o valor de x"** onde x será o valor de i em cada iteração, para cada valor de 0 a 3.
+> Realizar una función llamada **pasandoPorI** que muestre por consola **"acá i tiene el valor de x"** donde x va a ser el valor de la variable i en cada iteración, por cada valor que va tomando i desde 0 hasta el numero 3.
