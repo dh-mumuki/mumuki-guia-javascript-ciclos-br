@@ -40,7 +40,7 @@ for(var i = 0; i < 3; i++) {
 }
  
 console.log(totalCalorias) 
-//a variavel totalCalorias aqui já não existe e não pode ser consultada
+//a variavel totalCalorias aqui já não existe e não pode ser consul-tada
 ```
  
 * A variável é inicializada cada vez que se executa uma iteração do for
