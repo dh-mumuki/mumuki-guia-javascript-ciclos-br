@@ -56,7 +56,8 @@ Consequentemente, a primeira vez que o `for` é executado
 E a segunda vez que se executa dentro do `for`
  
 ```javascript
-   var totalCalorias = totalCalorias + 300; //Estamos retornando para declarar a variável totalCalorias, para a qual não podemos armazenar o valor anterior.
+   var totalCalorias = totalCalorias + 300; 
+   //Estamos retornando para declarar a variável totalCalorias, para a qual não podemos armazenar o valor anterior.
 }
 ```
  
@@ -66,16 +67,19 @@ Isso está relacionado à existência das variáveis, a variável totalCalorias 
 
  
 ```javascript
-var totalCalorias = 0; //Aqui eu aproveito e inicializo em 0 a variável totalCalorias.
+var totalCalorias = 0; 
+//Aqui eu aproveito e inicializo em 0 a variável totalCalorias.
  
 for(var i = 0; i < 5; i++) {
-  totalCalorias = totalCalorias + 0.25; //aqui a variável, como já está declarada fora do for, pode ser modificada durante as iterações e não irá "reiniciar"
+  totalCalorias = totalCalorias + 0.25; 
+  //aqui a variável, como já está declarada fora do for, pode ser modificada durante as iterações e não irá "reiniciar"
 }
  
-console.log(totalCalorias) //a variável totalCalorias já existe e retorna o valor total que estávamos procurando.
+console.log(totalCalorias) 
+//a variável totalCalorias já existe e retorna o valor total que estávamos procurando.
 ```
  
-> Sabendo disso, eu escrevi uma função `adicionar 5 Moedas de 25 centavos`, que adiciona o valor de 5 moedas de 0,25 centavos e retorna o resultado.
+> Sabendo disso, escreva uma função `somar5MoedasDe25 Centavos`, que adiciona o valor de 5 moedas de 0,25 centavos e retorna o resultado.
  
 Por exemplo:  
 >  
@@ -84,3 +88,4 @@ Por exemplo:
 > 1.25
 > ```
 > Isso fez 0.25+0.25+0.25+0.25+0.25
+
