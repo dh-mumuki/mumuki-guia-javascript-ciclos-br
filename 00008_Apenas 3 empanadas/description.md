@@ -1,6 +1,6 @@
-Até agora nos concentramos em entender que o 'for' nos serve para repetir um número de ação X vezes.
+Até agora nos concentramos em entender que o `for` nos serve para repetir um número de ação **x** vezes.
 Neste exercício, vamos nos concentrar na ação.
-Até agora nós só imprimimos a palavra "Azul" na tela, agora vamos fazer algo mais avançado e a idéia seria usar o `for 'para obter o resultado de uma operação realizada várias vezes.
+Até agora nós só imprimimos a palavra "Azul" na tela, agora vamos fazer algo mais avançado e a idéia seria usar o `for` para obter o resultado de uma operação realizada várias vezes.
  
 Se quiséssemos contar quantas calorias temos em 3 empanadas e cada empanada tem 300 calorias, poderíamos fazer duas coisas, uma seria multiplicar e outra seria adicionar 3 vezes 300 calorias.
 
@@ -31,7 +31,7 @@ Este código, embora pareça que funcionaria se o executássemos, não nos daria
  
 Isso ocorre porque a variável "totalCalorias" é declarada dentro do `for` e isso tem duas conseqüências:
  
-*A variável não existe / não pode ser chamada fora do for
+*A variável não existe E não pode ser chamada fora do `for`.
  
 ```javascript
 for(var i = 0; i < 3; i++) {
@@ -43,7 +43,7 @@ console.log(totalCalorias)
 //a variavel totalCalorias aqui já não existe e não pode ser consul-tada
 ```
  
-* A variável é inicializada cada vez que se executa uma iteração do for
+* A variável é inicializada cada vez que se executa uma iteração do `for`
  
 Dentro do `for` está o código que queremos que seja executado em CADA ITERAÇÃO, para o qual em CADA ITERAÇÃO o mesmo código é executado novamente.
 Consequentemente, a primeira vez que o `for` é executado
