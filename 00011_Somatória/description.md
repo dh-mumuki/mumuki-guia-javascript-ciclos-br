@@ -1,10 +1,10 @@
-Com o que aprendemos até o momento, estamos em condições de realizar o seguinte exercício:.
+Com o que aprendemos até o momento, estamos em condições de realizar o seguinte exercício:
  
-Para isso precisamos utilizar todos os conceitos de for vistos até agora:
+Para isso precisamos utilizar todos os conceitos de `for` vistos até agora:
  
 * repetições 
-* processar algo utilizando o for
-* o valor da variável i
+* processar algo utilizando o `for`
+* o valor da variável `i`
  
  
 > Sabendo disso crie uma função chamada `somatoria`, que receba como parâmetro um número e devolva (não imprima) a soma dos números antecessores a ele.
