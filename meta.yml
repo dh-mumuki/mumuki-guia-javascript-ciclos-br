@@ -8,9 +8,9 @@ language: javascript
 id_format: "%05d"
 order:
 - 1
+- 2
 - 3
 - 4
-- 2
 - 2
 - 5
 - 6
