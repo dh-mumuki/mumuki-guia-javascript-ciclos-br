@@ -9,7 +9,7 @@ for(var i = 0; i < 4; i++) {
 }
 ```
 
-> Sabendo disso, escreva uma função `passoAPasso`, que imprime 5 vezes o conteúdo de i.
+> Sabendo disso, escreva uma função `passoAPasso`, que imprime 5 vezes o conteúdo de `i`.
 Por exemplo:
  
 > 
