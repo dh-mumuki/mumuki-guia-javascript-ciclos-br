@@ -1,7 +1,7 @@
 Antes de avançar com o `for`, vamos tentar analisar bem o que está acontecendo dentro dele.
 Nós já sabemos que ele executa o código que pedimos desde que uma determinada condição seja atendida.
 
-O `for` tem uma variável que está mudando, que é a `i`. É importante entender o comportamento dela. Lembre-se na seção anterior que o valor `i` está aumentando à medida que você itera. 
+O `for` tem uma variável que está mudando, que é a `i`. É importante entender o comportamento dela. Lembre-se na seção anterior que o valor `i` está aumentando à medida que você itera (se repete). 
 
 ```javascript
 for(var i = 0; i < 4; i++) {
