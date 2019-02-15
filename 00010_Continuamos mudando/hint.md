@@ -1,1 +1,1 @@
-Sabemos que usamos i++ para incrementa em uma unidade o **i** a cada iteração. Ma se tentarmos incrementar o **i** em duas unidades a cada iteração? Experimente utilizar **i+=2** e veja o que acontece.
+Sabemos que usamos i++ para incrementar em uma unidade o **i** a cada iteração. Mas se tentarmos incrementar o **i** em duas unidades a cada iteração? Experimente utilizar **i+=2** e veja o que acontece.

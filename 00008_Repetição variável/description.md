@@ -2,7 +2,7 @@ Até agora nos concentramos em entender que o `for` nos serve para repetir um n�
 Neste exercício, vamos nos concentrar na ação.
 Até agora nós só imprimimos a palavra "Azul" na tela, agora vamos fazer algo mais avançado e a idéia seria usar o `for` para obter o resultado de uma operação realizada várias vezes.
  
-Se quiséssemos contar quantas calorias temos em 3 empanadas e cada empanada tem 300 calorias, poderíamos fazer duas coisas, uma seria multiplicar e outra seria adicionar 3 vezes 300 calorias.
+Se quiséssemos contar quantas calorias temos em 3 coxinhas e cada coxinha tem 300 calorias, poderíamos fazer duas coisas, uma seria multiplicar e outra seria adicionar 3 vezes 300 calorias.
 
  
 Para fazer isso no código, primeiro precisamos fazer um `for` para rodar 3 vezes:
