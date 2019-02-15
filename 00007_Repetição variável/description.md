@@ -3,9 +3,11 @@ Nos exercícios anteriores, conseguimos ter a palavra “Azul” impressa na tel
 Agora, muitas vezes nos deparamos com situações em que não temos um número constante de repetições. Nesses caso é necessário que o valor de repetições possa variar conforme a necessidade.
 
 Por exemplo, poderíamos fazer uma função que imprimisse 5 vezes “Azul” utilizando o `for`. O que aconteceria se agora precisássemos que imprimisse 4 vezes? Para isso, hoje em dia, precisaríamos criar outra função.
-Como você pode perceber, isso não viável. No entanto, com algumas coisas que vimos, podemos dar um upgrade e fazer uma função genérica que recebe como parâmetro quantas vezes que algo será executado. Algo como uma impressão repetitiva da palavra “Azul”.
+Como você pode perceber, isso não viável. No entanto, com algumas coisas que vimos, podemos dar um upgrade e fazer uma função genérica que recebe como parâmetro quantas vezes que algo será executado. 
+Algo como uma impressão repetitiva da palavra “Azul”.
 
-Para isso, teremos de modificar o `for`. Se quisermos repetir uma instrução 4 vezes, poderíamos escrever o seguinte:
+Para isso, teremos de modificar o `for`. 
+Se quisermos repetir uma instrução 4 vezes, poderíamos escrever o seguinte:
 
 
 ```javascript
