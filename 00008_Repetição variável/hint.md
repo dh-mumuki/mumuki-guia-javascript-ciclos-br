@@ -1,1 +1,1 @@
-Para os próximos exercícios volte a utilizar a palavra reservada **return** ao invés de console.log
+Vamos voltar a utilizar a palavra reservada **return** ao invés de console.log
