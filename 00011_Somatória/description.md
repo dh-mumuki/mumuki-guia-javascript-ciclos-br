@@ -7,7 +7,7 @@ Para isso precisamos utilizar todos os conceitos de `for` vistos até agora:
 * o valor da variável `i`
  
  
-> Sabendo disso crie uma função chamada `somatoria`, que receba como parâmetro um número e retorne a soma dos números antecessores a ele.
+> Defina a função chamada `somatoria`, que receba como parâmetro um número e retorne a soma dos números antecessores a ele.
 Por exemplo:  
 >  
 > ```javascript
