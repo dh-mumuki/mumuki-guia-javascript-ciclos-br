@@ -15,7 +15,7 @@ for(var i = 0; i < 3; i++) {
 console.log(totalCalorias)
 ```
  
-Para conseguir isso, o que temos que modificar é algo semelhante ao Exercício 2 de Variáveis Repetidas.
+Para conseguir isso, o que temos que modificar é algo semelhante ao exercício anterior.
  
 Primeiro temos que tirar o número 3 e torná-lo variável, por exemplo, "x" ou "quantidadeDeCoxinhas"
  
@@ -27,7 +27,7 @@ for(var i = 0; i < quantidadeDeCoxinhas; i++) {
   totalCalorias = totalCalorias + 300;
 }
  
-console.log(totalCalorias)
+return totalCalorias;
 ```
 Depois de fazer essa modificação, a variável quantidadeDeCoxinhas poderia ser um parâmetro de uma função.
  
@@ -39,7 +39,7 @@ function caloriasDeCoxinhas(quantidadeDeCoxinhas){
 	totalCalorias = totalCalorias + 300;
   }
  
-  console.log(totalCalorias)
+  return totalCalorias;
 }
 ```
  
