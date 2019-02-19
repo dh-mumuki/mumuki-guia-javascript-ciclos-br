@@ -32,7 +32,7 @@ function repetirAlgoXVezes(quantidadeDeVezes) {
   }
 }
 ```
-> Sabendo isso, escreva uma função “imprimirAzul” que receba como parâmetro um valor numérico “x” e imprima “Azul” “x” vezes.
+> Sabendo isso, escreva uma função `imprimirAzul` que receba como parâmetro um valor numérico “x” e imprima “Azul” “x” vezes.
 Por exemplo
 >  
 > ```javascript
