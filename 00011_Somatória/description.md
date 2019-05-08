@@ -12,6 +12,6 @@ Por exemplo:
 >  
 > ```javascript
 > ム somatoria(4)
-> 5
+> 6
 > ```
 > A função executa isso através do for 0+1+2+3
